@@ -3,4 +3,8 @@ teste de modificação em arquivos
 entendendo o HEAD
 
 acrescentando alguma coisa
+<<<<<<< HEAD
 esta linha foi modificada no ramo master
+=======
+esta linha foi modificada no ramo teste
+>>>>>>> teste
