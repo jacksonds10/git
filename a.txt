@@ -3,3 +3,4 @@ teste de modificação em arquivos
 entendendo o HEAD
 
 acrescentando alguma coisa
+esta linha foi modificada no ramo master
